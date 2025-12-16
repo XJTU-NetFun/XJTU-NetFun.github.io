@@ -35,7 +35,7 @@
 ### Clone
 
 ```bash
-git clone git@github.com:XJTU-NetVerify/XJTU-NetVerify.github.io.git --recurse-submodules
+git clone git@github.com:XJTU-NetFun/XJTU-NetFun.github.io.git --recurse-submodules
 ```
 
 Download with all [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) init and update
