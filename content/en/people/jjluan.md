@@ -1,6 +1,6 @@
 +++
 title = 'Jiajun Luan'
-date = 2025-12-16T16:58:08+08:00
+date = 2024-09-01T16:58:08+08:00
 draft = false
 alumni = false
 
