@@ -215,7 +215,7 @@ languageCode = 'en-us'
 
   [[params.homepage.social.icons]]
     website = "email"
-    url = "mailto:augists@duck.com"
+    url = "augists@duck.com"
   [[params.homepage.social.icons]]
     website = "github"
     url = "https://github.com/XJTU-NetFun"
