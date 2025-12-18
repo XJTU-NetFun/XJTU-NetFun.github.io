@@ -11,7 +11,7 @@ name = 'xywang'
 name_cn = '王小雨'
 name_en = 'Xiaoyu Wang'
 degree = 'Master Student'
-image = '/people/xywang/photo.jpg'
+image = '/people/xywang/photo.png'
 
 email = 'nana0625@stu.xjtu.edu.cn'
 
