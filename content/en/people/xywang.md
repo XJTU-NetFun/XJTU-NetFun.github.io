@@ -19,8 +19,7 @@ email = 'nana0625@stu.xjtu.edu.cn'
 research_label = ["NF", "emulation"]
 
 [[introduction]]
-    content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Hao Li.
-My research interests are majorly in Control Plane Simulation and Emulation."
+    content = "I am a master student at Xi'an Jiaotong University (XJTU), advised by Prof. Hao Li. My research interests are majorly in Control Plane Simulation and Emulation."
 
 [[research]]
     interest = 'Control Plane Simulation'
