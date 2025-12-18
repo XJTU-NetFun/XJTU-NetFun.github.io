@@ -40,7 +40,7 @@ top = true
 [[paper.author]]
     name = 'Li Chen'
 [[paper.author]]
-    name = 'Peng Zhangg'
+    name = 'Peng Zhang'
     url = "https://gr.xjtu.edu.cn/en/web/p-zhang"
 
 +++
