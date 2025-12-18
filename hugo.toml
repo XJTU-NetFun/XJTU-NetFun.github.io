@@ -119,15 +119,15 @@ languageCode = 'en-us'
     #     weight = 5
 
 [[params.introImages]]
-  src = "/intro/IMG20240803130034.jpeg"
+  src = "/intro/IMG20240803130034.jpg"
 [[params.introImages]]
-  src = "/intro/intro1.jpeg"
+  src = "/intro/intro1.jpg"
 [[params.introImages]]
-  src = "/intro/intro2.jpeg"
+  src = "/intro/intro2.jpg"
 [[params.introImages]]
-  src = "/intro/intro3.jpeg"
+  src = "/intro/intro3.jpg"
 [[params.introImages]]
-  src = "/intro/group3.jpeg"
+  src = "/intro/group3.jpg"
 
 # [[params.logo]]
 #   src = "/logo-square-remake.png"
