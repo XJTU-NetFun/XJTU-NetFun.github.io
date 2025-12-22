@@ -39,6 +39,7 @@ fork之后，在Settings->Pages->Build and deployment->Source中选择gh-pages�
 2. 如果action出错，则不会修改网站；如果不报错，则会自动直接部署
 3. XJTU-NetFun的创建人为李芝塬，联系方式：zyli, knowncircle@163.com。
 4. 除了权限问题，不建议找我，大概率没啥用，因为这个项目是我fork来的，我也看不懂。
+5. 文件名应当尽可能简洁，避免除`-_.`之外的特殊符号。
 
 
 
