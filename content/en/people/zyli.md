@@ -20,12 +20,10 @@ github = 'KnownCircle'
 research_label = ["NF", "emulation"]
 
 [[introduction]]
-    content = "I am LiZhiyuan."
+    content = "I am a master student of NetFun lab, Xi'an Jiaotong University, advised by Hao Li."
 
 [[research]]
-    interest = 'interest1'
-[[research]]
-    interest = 'interest2'
+    interest = 'Data Plane'
 
 [[education]]
     school = "Xi'an Jiaotong University"
@@ -38,18 +36,7 @@ research_label = ["NF", "emulation"]
     degree = 'B.E. in Computer Science'
     time = '2021.9 - 2025.6'
 
-[[practice]]
-    enterprise = 'test enterprise'
-    work = 'Network Infrastructure Department'
-    time = '2025.6 - 2025.8'
-
 [[award]]
-    title = "test award title"
-    award = "National Scholarship"
-    icon = true
-[[award]]
-    title = "Best Paper Honorable Mention in ACM SIGCOMM '24"
-[[award]]
-    title = "Outstanding Graduates of Xi'an Jiaotong University, 2021"    
+    title = "Third Grade Scholarship, 2022"   
 
 +++
