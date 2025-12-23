@@ -4,6 +4,6 @@ date = 2021-04-12T14:40:06+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = 'Hao Li, Yihan Dang, Guangda Sun, Changhao Wu, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu'
+description = '李昊, 党一涵, Guangda Sun, Changhao Wu, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu'
 
 +++

@@ -4,6 +4,6 @@ date = 2024-08-08T14:40:06+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = 'Ze Xia, Yihan Dang, Hao Li'
+description = '夏泽, 党一涵, 李昊'
 
 +++
