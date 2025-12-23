@@ -1,5 +1,5 @@
 +++
-title = "REAL is Accepted by NSDI'26"
+title = "REAL被NSDI接收啦"
 date = 2025-12-12T14:40:06+08:00
 draft = false
 type = 'news'

@@ -1,5 +1,5 @@
 +++
-title = "LemonNFV is Accepted by USENIX NSDI'23"
+title = "LemonNFV被NSDI接收啦"
 date = 2023-04-17T14:40:06+08:00
 draft = false
 type = 'news'

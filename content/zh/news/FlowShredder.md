@@ -1,5 +1,5 @@
 +++
-title = "FlowShredder is Accepted by ICSOC 2024"
+title = "FlowShredder被ICSOC接收啦"
 date = 2024-12-07T14:40:06+08:00
 draft = false
 type = 'news'
