@@ -1,6 +1,6 @@
 +++
 title = 'Programming Transport Layer with Galvatron'
-date = 2025-12-14
+date = 2024-08-08
 type = 'paper'
 layout = 'paper'
 draft = false
