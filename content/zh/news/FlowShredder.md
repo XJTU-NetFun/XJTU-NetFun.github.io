@@ -4,6 +4,6 @@ date = 2024-12-07T14:40:06+08:00
 draft = false
 type = 'news'
 layout = 'zh'
-description = 'Bin Song, Bin Sun, Qiang Fu, Hao Li'
+description = '宋斌, Bin Sun, Qiang Fu, 李昊'
 
 +++
