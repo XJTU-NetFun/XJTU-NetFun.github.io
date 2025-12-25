@@ -17,7 +17,7 @@ email = 'billxia135@gmail.com'
 github = 'bill-xia'
 
 # Verification | Simulation | Synthesis
-research_label = ["NF", "emulation"]
+research_label = ["Verification", "Simulation"]
 
 [[introduction]]
     content = "I am a master student of NetFun lab, Xi'an Jiaotong University, advised by Hao Li. I'm generally interested in playing with operating system and networked systems."
